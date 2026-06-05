@@ -1,0 +1,5 @@
+La ruta POST /reporte recibe datos del usuario mediante el cuerpo de la solicitud.
+
+Sirve para enviar reportes o mensajes.
+
+Ayuda a organizar información en una aplicación comunitaria.
