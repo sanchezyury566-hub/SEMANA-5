@@ -1,0 +1,16 @@
+Cuando se envía una petición POST a la ruta /registro con el JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+el servidor devuelve la siguiente respuesta:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esto significa que el servidor recibió correctamente los datos enviados usando req.body.
