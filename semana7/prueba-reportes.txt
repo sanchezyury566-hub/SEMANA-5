@@ -1,0 +1,1 @@
+Cuando consulto la ruta GET /reportes, el sistema muestra los reportes registrados en memoria. Al inicio aparece una lista vacía, pero después de enviar un reporte con POST, la información queda almacenada en el array y puede consultarse. Si el servidor se reinicia, los datos se eliminan porque no se guardan en una base de datos.
