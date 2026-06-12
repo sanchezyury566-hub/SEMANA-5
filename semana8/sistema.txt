@@ -1,0 +1,5 @@
+El comando uname -a muestra información general del sistema operativo, como el nombre del sistema, versión y arquitectura. En este computador no se ejecutó porque estoy trabajando desde Windows PowerShell y no desde Linux.
+
+El comando whoami muestra el usuario que está utilizando el sistema actualmente. En este caso mostró el nombre del usuario del equipo.
+
+Es útil conocer esta información cuando se administra un servidor porque permite identificar el sistema operativo, el usuario activo y verificar configuraciones importantes para la seguridad y administración del sistema.
